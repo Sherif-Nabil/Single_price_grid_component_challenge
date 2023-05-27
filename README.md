@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My solution](https://www.frontendmentor.io/profile/Sherif-Nabil/solutions)
-- Live Site URL: [Live site URL](https://sherif-nabil.github.io/Testimonials_grid_section_challange/)
+- Live Site URL: [Live site URL](https://sherif-nabil.github.io/Single_price_grid_component_challenge/)
 
 ## My process
 
